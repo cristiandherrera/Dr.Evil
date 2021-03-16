@@ -1,0 +1,22 @@
+{
+  "name": "dr-evil",
+  "version": "1.0.0",
+  "description": "discord bot",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cristiandherrera/Dr.Evil.git"
+  },
+  "author": "cristian diego",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cristiandherrera/Dr.Evil/issues"
+  },
+  "homepage": "https://github.com/cristiandherrera/Dr.Evil#readme",
+  "dependencies": {
+    "discord.js": "^12.5.1"
+  }
+}
